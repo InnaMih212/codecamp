@@ -1,2 +1,2 @@
-// styles
-/* Hello */
+var a;
+a = 7;
