@@ -1,2 +1,1 @@
-var a;
-a = 7;
+var myName;
